@@ -1,4 +1,4 @@
-# Estrutura de Repeticao
+# Estrutura de Repeticao: For
 
 for c in range(0, 5):
     print('CRESCENTE ', c)
