@@ -58,3 +58,4 @@ list2 = list1[:]
 list2[1] = 23
 print(f'LISTA 1 (COPIA): {list1}')
 print(f'LISTA 2 (COPIA): {list2}')
+

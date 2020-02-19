@@ -32,3 +32,4 @@ print(f'MENORES DE IDADE: {menores}')
 
 galera.clear()
 print(f'\nLISTA LIMPA: {galera}')
+
