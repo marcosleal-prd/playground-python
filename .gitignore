@@ -1,0 +1,33 @@
+# Saídas de Compilação
+/build
+/tmp
+/out-tsc
+
+# IDEs e Editores
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# Diversas (os)
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+testem.log
+/typings
+
+# Arquivos de Sistema
+.DS_Store
+Thumbs.db
