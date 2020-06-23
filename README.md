@@ -1,3 +1,5 @@
-# Hello Python
+# 🐍 Python Playground 🐍
 
-Este projeto contem os arquivos desenvolvidos (ou em desenvolvimento) durante os estudo iniciais com a linguagem Python. Para este projeto, além do python foi utilizado o Vim como editor principal.
+Este projeto contem arquivos desenvolvidos (ou em desenvolvimento) para estudo da linguagem Python por meio de diversos canais.
+
+Durante os estudos foram utilizados [Vim](https://www.vim.org/), [VSCode](https://code.visualstudio.com/) e [Pyenv](https://github.com/pyenv/pyenv) como ferramentas de desenvolvimento local.
