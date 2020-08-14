@@ -1,7 +1,21 @@
 # Saídas de Compilação
-/build
-/tmp
-/out-tsc
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
 
 # IDEs e Editores
 /.idea
@@ -31,3 +45,11 @@ testem.log
 # Arquivos de Sistema
 .DS_Store
 Thumbs.db
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
