@@ -4,9 +4,6 @@ version = "0.1.0"
 description = ""
 authors = ["Marcos V. Leal <marcosleal.prd@gmail.com>"]
 
-[tool.poetry.scripts]
-format = "black --check --diff ."
-
 [tool.poetry.dependencies]
 python = "^3.8"
 
